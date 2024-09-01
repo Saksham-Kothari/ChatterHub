@@ -18,7 +18,7 @@ How to Run
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/ChatterHub.git
+git clone https://github.com/Saksham-Kothari/ChatterHub.git
 Navigate to the project directory:
 bash
 Copy code
